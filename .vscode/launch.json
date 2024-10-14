@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-          "name": "Launch SRS",
+          "name": "Launch SRS",a
           "type": "cppdbg",
           "request": "launch",
           "program": "${workspaceFolder}/trunk/ide/vscode-build/srs",
